@@ -34,7 +34,7 @@ A Spotify interface clone built using HTML and CSS to practice layout structurin
 🔗 Live Website
 
 Visit my portfolio here:
-👉 https://aratigavali.github.io
+👉 https://aratigavali.github.io/portfolio-website/
 
 📬 Contact
 
